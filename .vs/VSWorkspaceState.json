@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FirstApp",
+    "\\FirstApp\\FirstApp",
+    "\\FirstApp\\FirstApp\\FirstApp",
+    "\\FirstApp\\FirstApp\\FirstApp.Android",
+    "\\FirstApp\\FirstApp\\FirstApp.Android\\Properties",
+    "\\FirstApp\\FirstApp\\FirstApp.UWP"
+  ],
+  "SelectedNode": "\\FirstApp\\FirstApp",
+  "PreviewInSolutionExplorer": false
+}

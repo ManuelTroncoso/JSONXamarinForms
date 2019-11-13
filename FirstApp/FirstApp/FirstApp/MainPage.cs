@@ -43,8 +43,19 @@ namespace FirstApp
             });
 
             mTranslateButton.Clicked += TranslateButton_Clicked;
-
+            mCallButton.Clicked += CallButton_Clicked;
             this.Content = panel;
+        }
+
+        private async void CallButton_Clicked(object sender, EventArgs e)
+        {
+            if (await this.DisplayAlert("Seguro?", "Estas seguro de que quieres llamar a " + mTranslateNumber + "?", "Sí", "No"))
+            {
+                IDialer dialer = DependencyService.Get<IDialer>();
+                if (dialer != null)
+                    await dialer.DialAsync(mTranslateNumber);
+
+            } 
         }
 
         private void TranslateButton_Clicked(object sender, EventArgs e)

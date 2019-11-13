@@ -102,6 +102,4 @@ C:\Users\manuel.troncoso\Desktop\FirstAppXamarin\FirstApp\FirstApp\FirstApp.Andr
 C:\Users\manuel.troncoso\Desktop\FirstAppXamarin\FirstApp\FirstApp\FirstApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\manuel.troncoso\Desktop\FirstAppXamarin\FirstApp\FirstApp\FirstApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\manuel.troncoso\Desktop\FirstAppXamarin\FirstApp\FirstApp\FirstApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
-C:\Users\manuel.troncoso\Desktop\FirstAppXamarin\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.dll
-C:\Users\manuel.troncoso\Desktop\FirstAppXamarin\FirstApp\FirstApp\FirstApp.Android\bin\Debug\FirstApp.dll.mdb
 C:\Users\manuel.troncoso\Desktop\FirstAppXamarin\FirstApp\FirstApp\FirstApp.Android\obj\Debug\81\linksrc\FirstApp.dll.mdb
