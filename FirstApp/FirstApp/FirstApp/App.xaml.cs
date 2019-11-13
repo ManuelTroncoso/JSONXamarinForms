@@ -11,7 +11,7 @@ namespace FirstApp
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new FirstApp.MainPage();
         }
 
         protected override void OnStart()
