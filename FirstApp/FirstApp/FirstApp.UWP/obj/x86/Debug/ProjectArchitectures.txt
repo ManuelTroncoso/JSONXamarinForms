@@ -1,0 +1,1 @@
+C:\Users\manuel.troncoso\Desktop\FirstAppXamarin\FirstApp\FirstApp\FirstApp.UWP\FirstApp.UWP.csproj;x86
